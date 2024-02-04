@@ -2083,6 +2083,7 @@ FW_VERSIONS = {
   CAR.TUCSON_HYBRID_4TH_GEN: {
     (Ecu.fwdCamera, 0x7c4, None): [
       b'\xf1\x00NX4 FR_CMR AT USA LHD 1.00 1.00 99211-N9240 14Q',
+      b'\xf1\x00NX4 FR_CMR AT EUR LHD 1.00 1.00 99211-N9220 14K',
       b'\xf1\x00NX4 FR_CMR AT USA LHD 1.00 1.00 99211-N9220 14K',
       b'\xf1\x00NX4 FR_CMR AT USA LHD 1.00 1.01 99211-N9100 14A',
       b'\xf1\x00NX4 FR_CMR AT USA LHD 1.00 1.00 99211-N9250 14W',
@@ -2093,6 +2094,7 @@ FW_VERSIONS = {
       b'\xf1\x00NX4__               1.00 1.00 99110-N9100         ',
       b'\xf1\x00NX4__               1.01 1.00 99110-N9100         ',
       b'\xf1\x00NX4__               1.00 1.01 99110-N9000         ',
+      b'\xf1\x00NX4__               1.00 1.02 99110-N9000         ',
     ],
   },
   CAR.KIA_SPORTAGE_HYBRID_5TH_GEN: {
